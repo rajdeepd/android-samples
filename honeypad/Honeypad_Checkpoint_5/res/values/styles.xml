@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- For API level 11 or later, the Holo theme is available and we prefer that.
+    For lower Levels we will use this theme -->
+    <style name="ThemeHoneyPad" parent="android:Theme.Light"/>
+</resources>
